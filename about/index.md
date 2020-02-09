@@ -12,12 +12,11 @@ ABOUT
 * Blog: Set up in Feb. 2020, recording and reflecting for my personal life;
 * Location: Nanjing/Shenzhen;
 * Onerios, whom the Romans called The Shaper of Form.
+
 ---
 
 这个博客创建于2020年春，记录和献歌。
-
 电子本科在读。工程、诗和哲学共同雕刻我，愿它们让一切人成为一切人的同时代人。
-
 Onerios，罗马的梦神、塑型者和启迪者。
 
 ---
