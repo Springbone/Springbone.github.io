@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Hope
-subtitle: 此刻珍惜，未来可期
-description: 靡不有初，鲜克有终。
-author: Lhp
+title: ONEIROS
+subtitle: 躬身入局者，皆为我辈。
+description: All those moments will be lost in time, like tears in rain.
+author: Xinyue Chen
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -86,7 +86,7 @@ keywords: "Jekyll, NexT"
 rss: 
 
 # Specify the date when the site was setup
-since: 2016
+since: 2020
 
 # icon between year and author @Footer
 authoricon: heart
@@ -213,9 +213,9 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
-  Zhihu: https://www.zhihu.com/people/lu-hao-peng-26/activities
-  GitHub: https://github.com/HusterHope
-  Email: mailto:luhp9696@gmail.com
+  #Zhihu: https://www.zhihu.com/people/lu-hao-peng-26/activities
+  GitHub: https://github.com/Springbone
+  #Email: mailto:luhp9696@gmail.com
 
 # Social Links Icons
 # Icon Mapping:
@@ -227,11 +227,11 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  Twitter: twitter
-  Weibo: weibo
-  Zhihu: coffee
-  Bilibili: play
-  Email: envelope
+  #Twitter: twitter
+  #Weibo: weibo
+  #Zhihu: coffee
+  #Bilibili: play
+  #Email: envelope
 
 
 # Sidebar Avatar
@@ -288,23 +288,10 @@ links_title: Friends
 # links_layout: block
 links_layout: inline
 links:
-  111qqz: https://111qqz.github.io/
-  VectorLu: https://vectorlu.github.io/
-  Yalv: https://yalv.me/
-  YJK: https://yjk.im/
-  大黄菌: http://kyonhuang.top/
-  Liadbiz: http://liadbiz.github.io/
-  CharsTech: http://chars.tech/
-  五斤: https://www.chairyfish.com/
-  YangHan: https://yanghan.life/
-  一之笔: https://yizibi.github.io/
-  DaiChao1997: https://daichao1997.github.io/
-  Oubindo: https://oubindo.github.io/
-  Danielhu: https://danielhu229.github.io/
-  hhuysqt: https://hhuysqt.github.io/
-  瓠樽: https://blog.dylanwu.space/
-  Leon-wtf: https://leon-wtf.github.io/
-  Lighting Studio: http://hustlighting.com/
+  #111qqz: https://111qqz.github.io/
+  #VectorLu: https://vectorlu.github.io/
+  #Yalv: https://yalv.me/
+  #YJK: https://yjk.im/
 
 # ---------------------------------------------------------------
 # Post Settings
