@@ -1,5 +1,5 @@
 ---
-title: "Reading | 关于德国文化特性的书籍摘抄"
+title: "Reading | 摘录《西方哲学史》-启蒙运动部分"
 layout: post
 categories: Germany
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Reading | 关于德国文化特性的书籍摘抄"
+title: "Reading | 摘录《牧羊少年奇幻之旅》"
 layout: post
 categories: Germany
 tags:
