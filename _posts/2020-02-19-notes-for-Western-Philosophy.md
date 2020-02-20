@@ -1,7 +1,7 @@
 ---
 title: "Reading | 摘录《西方哲学史》-启蒙运动部分"
 layout: post
-categories: Germany
+categories: Arts
 tags:
   - Notes
 ---

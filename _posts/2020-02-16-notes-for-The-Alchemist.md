@@ -1,7 +1,7 @@
 ---
 title: "Reading | 摘录《牧羊少年奇幻之旅》"
 layout: post
-categories: Germany
+categories: Arts
 tags:
   - Notes
 ---
