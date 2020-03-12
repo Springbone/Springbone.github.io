@@ -7,14 +7,15 @@ tags:
 ---
 > We were drowning in data but starved of information.
 
+愈饮则我愈感口渴。最后这渴念变作那样强烈，我竟为欲望而痛哭。
+
+<!-- more -->
 Space, the final frontier
 These are the voyages of the starship Enterprise
 It‘s five-year mission: to explore strange new worlds, to seek out new life and new civilizations
 to boldly go where no one has gone before.
-
-愈饮则我愈感口渴。最后这渴念变作那样强烈，我竟为欲望而痛哭。
-
 The world is full of magical things patiently waiting for our wits to grow sharper.
+
 世界充满了神奇的东西，它们在耐心地等待我们变得更有智慧。
 
 I would never die for my beliefs because I might be wrong.

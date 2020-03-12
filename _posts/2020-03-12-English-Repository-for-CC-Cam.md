@@ -13,25 +13,26 @@ tags:
 说是要把这玩意作为PYNQ社区项目来推广，我看黑历史看得怪心虚的。  
 [Github项目地址](https://github.com/Springbone/CC-Cam)
 
+<!-- more -->
 ---
 # CC-Cam: A diffuser camera based on Pynq-Z2
 
 This repository contains the design of our computational imaging system *CC-Cam*.  
 With a scattering media in front of the imaging sensor, this lensless camera reconstructs the images of real scenes by scattering imaging technology. We use Xilinx PYNQ-Z2 to build a compact system with the integration of PSF calibration, raw image capture, reconstruction acceleration and user interaction.   
-![](https://github.com/Springbone/CC-Cam/blob/master//brief_introduction.png)
-
+![](https://github.com/Springbone/CC-Cam/blob/master/brief_introduction.png)
+<!-- more -->
 In the work pipeline, first the PSF (point spread function) should be obtained during the calibration of a point light source, then the FISTA algorithm is implemented on the scattered image captured by the sensor, and the reconstruction result is derived after the iterative computation.  
 Details of the reconstruction alogorithm can be found here:  
 *DiffuserCam*: https://waller-lab.github.io/DiffuserCam/tutorial.html
 
 In the PL(Programmable logic), we build the basic video flow from sensor to displayer and  use HLS(High level synthesis) to design the IP core for gradient calculation in the reconstruction algorithm, since gradient calculation involves heavy computing cost. The increase of the degree of computing parallelism by using the IP core accelerates the reconstruction task.  
-![](https://github.com/Springbone/CC-Cam/blob/master//schematic_illustration.png)
+![](https://github.com/Springbone/CC-Cam/blob/master/schematic_illustration.png)
 
 By running a ipython notebook, the PS(Processing System) manages the overall system control, such as the interactive interface, the motion of robotic arm holding the camera, the remote connection, the preprocessing of images. Buttons and switches on the boards and display screen can be used to operate the system.  
-![](https://github.com/Springbone/CC-Cam/blob/master//general_picture.png)
+![](https://github.com/Springbone/CC-Cam/blob/master/general_picture.png)
 
 Imaging technologies fully utilizing the effect of scattering can realize imaging through scattering media or other complex media and have super resolution characteristics. But scattering imaging technology, as one of the typical research fields of computational imaging, has the characteristics of heavy computing cost, which results that the present imaging algorithms can hardly be applied on embedded computers. Our work demonstrates a possible solution with the aid of FPGAs. The similar system structure can be extended to other applications that combines the computational imaging algorithm and the customizable computing design.  
-![](https://github.com/Springbone/CC-Cam/blob/master//camera.png)
+![](https://github.com/Springbone/CC-Cam/blob/master/camera.png)
 
 ## Folder Structure
 * PL_design
