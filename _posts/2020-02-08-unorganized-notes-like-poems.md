@@ -10,6 +10,7 @@ tags:
 愈饮则我愈感口渴。最后这渴念变作那样强烈，我竟为欲望而痛哭。
 
 <!-- more -->
+
 Space, the final frontier
 These are the voyages of the starship Enterprise
 It‘s five-year mission: to explore strange new worlds, to seek out new life and new civilizations
